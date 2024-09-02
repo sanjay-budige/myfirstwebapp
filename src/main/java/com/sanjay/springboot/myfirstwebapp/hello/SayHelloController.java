@@ -10,7 +10,7 @@ public class SayHelloController {
 	@RequestMapping("say-hello")
 	@ResponseBody
 	public String sayHello() {
-
+		System.out.println("This is my first say hello");
 		return "hello my name is sanjay";
 	}
 	
