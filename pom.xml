@@ -13,7 +13,7 @@
 	<artifactId>myfirstwebapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>myfirstwebapp</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot - this is my firstapp</description>
 	<url />
 	<licenses>
 		<license />
